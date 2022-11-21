@@ -2,8 +2,8 @@
 <p>A Passionate Learner, Designer and Web Developer.</p>
 <!--<img src="https://komarev.com/ghpvc/?username=isacvk" alt="AnirudhPanda" /> -->
 <p>
- - 📃 My Resume as of November 2022 - <a href = "https://drive.google.com/file/d/1hwLWeyniNAZFap7SsrONkCTT6cbqMpNv/view?usp=share_link">Resume</a><br/>
- - 🔭 I’m currently working on <strong>ReactJS and NodeJS</strong><br/>
+ - 📃 My Resume as of November 2022 - <a  target="_blank" href = "https://drive.google.com/file/d/1hwLWeyniNAZFap7SsrONkCTT6cbqMpNv/view?usp=share_link">Resume</a><br/>
+ - 🔭 I’m currently working on <strong>NodeJS</strong><br/>
  - 📫 How to reach me <strong>isacvk@proton.me</strong>
 </p>
 <h2>📊 Github Statistics </h2>
